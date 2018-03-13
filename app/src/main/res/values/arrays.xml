@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="line_item">
+        <item>温度拆线图</item>
+        <item>销售叠加条形图</item>
+        <item>销售水平条形图</item>
+        <item>三角函数</item>
+        <item>散射图</item>
+        <item>散射比较</item>
+        <item>项目门票状况</item>
+        <item>销售增长</item>
+        <item>预算图表</item>
+        <item>几年预算图表</item>
+        <item>温度范围图</item>
+        <item>重量图</item>
+        <item>传感器数据</item>
+    </string-array>
+
+</resources>
